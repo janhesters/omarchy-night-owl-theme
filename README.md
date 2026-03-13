@@ -6,6 +6,23 @@ Night Owl is designed for contrast and accessibility during nighttime coding, wi
 
 ![Preview](preview.png)
 
+## Backgrounds
+
+<table>
+  <tr>
+    <td><img src="backgrounds/boat-hand.png" width="200"/></td>
+    <td><img src="backgrounds/camping-glowy-tent.png" width="200"/></td>
+    <td><img src="backgrounds/city-lights.jpg" width="200"/></td>
+    <td><img src="backgrounds/lake-road.jpg" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="backgrounds/mountain-lake-blue.jpeg" width="200"/></td>
+    <td><img src="backgrounds/mountain-lake-grey.jpeg" width="200"/></td>
+    <td><img src="backgrounds/mountain-lake-purple.jpeg" width="200"/></td>
+    <td><img src="backgrounds/waterfall.jpg" width="200"/></td>
+  </tr>
+</table>
+
 ## Install
 
 ```bash
