@@ -1,8 +1,8 @@
-# Night Owl Theme for Omarchy
+# Night Owl Theme for Omarchy Quattro
 
 A dark theme for [Omarchy](https://omarchy.org/) based on [Night Owl](https://github.com/sdras/night-owl-vscode-theme) by [Sarah Drasner](https://github.com/sdras).
 
-Night Owl is designed for contrast and accessibility during nighttime coding, with carefully chosen colors that are easy on the eyes while maintaining readability.
+This version uses Omarchy Quattro's semantic color palette, Lua-based Hyprland configuration, and native shell theming. It retains the translucent bar and blue window accents from the original theme.
 
 ![Preview](preview.png)
 
@@ -26,29 +26,30 @@ Night Owl is designed for contrast and accessibility during nighttime coding, wi
 ## Install
 
 ```bash
-omarchy-theme-install https://github.com/janhesters/omarchy-night-owl-theme
+omarchy theme install https://github.com/janhesters/omarchy-night-owl-theme
 ```
 
 This installs and immediately applies the theme. You can also switch to it later with:
 
 ```bash
-omarchy-theme-set night-owl
+omarchy theme set night-owl
 ```
 
 ## What's themed
 
-- Terminal (Ghostty / Alacritty / Kitty)
-- Waybar (status bar)
-- Walker (app launcher)
-- Mako (notifications)
-- Hyprland & Hyprlock
-- SwayOSD
+- Omarchy Shell, including the bar, menus, and notifications
+- Terminal applications
+- Hyprland window borders, transparency, and blur
 - btop
 - Neovim (via [oxfist/night-owl.nvim](https://github.com/oxfist/night-owl.nvim))
 - VS Code (via [sdras.night-owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl))
 - Chromium
 
+## Compatibility
+
+This theme targets Omarchy 4 (Quattro) and its Lua configuration format.
+
 ## Credits
 
-- **Night Owl** by [Sarah Drasner](https://github.com/sdras) — the original VS Code theme and color palette
-- **night-owl.nvim** by [oxfist](https://github.com/oxfist/night-owl.nvim) — Neovim port
+- **Night Owl** by [Sarah Drasner](https://github.com/sdras), the original VS Code theme and color palette
+- **night-owl.nvim** by [oxfist](https://github.com/oxfist/night-owl.nvim), the Neovim port

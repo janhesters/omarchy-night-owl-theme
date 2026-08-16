@@ -1,5 +1,0 @@
-@define-color waybarBg rgba(1, 22, 39, 0.3);
-
-#waybar {
-  background-color: @waybarBg;
-}
