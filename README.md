@@ -21,6 +21,10 @@ Night Owl is designed for contrast and accessibility during nighttime coding, wi
     <td><img src="backgrounds/mountain-lake-purple.jpeg" width="200"/></td>
     <td><img src="backgrounds/waterfall.jpg" width="200"/></td>
   </tr>
+  <tr>
+    <td><img src="backgrounds/sunset-lake.png" width="200"/></td>
+    <td><img src="backgrounds/the_valley.png" width="200"/></td>
+  </tr>
 </table>
 
 ## Install
